@@ -101,6 +101,7 @@ padding: 0
     bottom: 32px;
     right: 20px;
 	text-align:right;
+	transition:.3s;
 }
 #scrollUp i{
 	padding: 10px 20px;
